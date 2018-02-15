@@ -4,11 +4,15 @@
   * [Line chart with linear regression line](simple_linear_line.md) - Plots a simple linear regression line on a line chart.
   * [Scatter plot with linear regression line](simple_linear_bubble.md) -
   Plots a simple linear regression line on a scatter plot.
+  
 * Multiple linear regression Analysis
   * [Multiple regression analysis](regression_analysis.md) - Performs multiple regression analysis and fits linear models.
   * [Line chart with multiple regression line](regression_analysis_line_chart.md) - Plots a multiple linear regression line on a line chart.
   * [Plot regression coefficients](coefplot.md) - Plots the coefficients from a regression model.
   * [Correlation matrix heatmap](correlation_heatmap.md) - Displays correlation matrix heatmap.
+  * [Multiple regression model](regression_model.md) - Performs multiple regression analysis and fits linear models.
+  * [Multiple regression prediction](regression_predict.md) - Plots on a histogram a prediction of multiple linear regression model.
+  * [Multiple regression prediction table](regression_predict_table.md) - Plots on a table a prediction of multiple linear regression model.
 
 * Statistical hypothesis testing
   * [F-Test](f_test.md) - Performs an F-Test to compare the variances of two samples.
